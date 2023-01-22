@@ -182,7 +182,7 @@ The uses of Thamarai nagar Lake in Tiruvannamalai District are
 
 
 ## Output:
-![Output](.screenshots/map output.png)
+![Output](.screenshots/mapoutput.png)
 
 ![Output](.screenshots/busstand.png)
 
