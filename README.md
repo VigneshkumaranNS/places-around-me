@@ -28,7 +28,7 @@ map.html
 <font color="red"><b>Tiruvannamalai-Temple city</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Bakkiya lakshmi M (22008649)</b></b></font>
+<font color="blue"><b>VIGNESH KUMARAN N.S (22008928)</b></b></font>
 </h3>
 <center>
 <img src="/static/images/map.png" usemap="#MyCity" height="420" width="1100">
